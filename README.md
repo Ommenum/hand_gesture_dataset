@@ -1,5 +1,10 @@
 # hand_gesture_dataset
+
+
 S21 hand‑reflection data using a ZNA43, horn antennas, and a RIS.
+
+A link to the data is provided:
+https://drive.google.com/drive/folders/19n-p1ufx06bDIAidp1X9wfeMW5GRE3tY?usp=sharing
 
 # Data Collection Procedure
 
